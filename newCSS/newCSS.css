@@ -1,0 +1,89 @@
+﻿body {
+
+
+}
+
+h2 {
+    color: #1c1e24;
+}
+h4 {
+    color: #1c1e24;
+}
+.navSection{
+    background-color:#1b1e25;
+    }
+.logo{
+    width:35%;
+}
+
+.slick-bottom .custom-btn:hover {
+    background-color: #c9b66a;
+}
+
+.nav-item .nav-link:hover {
+    color: #c9b66a;
+}
+.nav-item .nav-link:current {
+    color: #c9b66a;
+}
+span {
+    color: #c9b66a;
+}
+
+.site-footer {
+    background-color: #1b1e25;
+}
+.portfolio-item {
+    width:100%;
+    
+}
+
+.portfolio-item .item {
+        width:303px;
+         float:left;
+        margin-bottom: 10px;
+    }
+
+.item {
+    text-align:center;
+    width:auto;
+}
+
+.overlay {
+    background-color: #1b1e25;
+}
+
+.site-header-faq {
+    background-color: white;
+    position: relative;
+    overflow: hidden;
+    margin-top:20px;
+}
+
+.faq {
+    padding-top:200px;
+
+}
+
+.team {
+    padding-top: 200px;
+    background-color: #a8a599;
+}
+
+.contact {
+    padding-top: 200px;
+}
+
+@media (max-width: 576px) {
+.about{
+    text-align:center;
+}
+    .imageNew {
+        height: 150px;
+        text-align: center;
+    }
+}
+
+.team-thumb {
+    margin: 10px;
+}
